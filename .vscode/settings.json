@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        
+    },
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.language.colorizedBracketPairs": [],
+    "editor.fontSize": 28,
+    
+}

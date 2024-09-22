@@ -1,0 +1,16 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+*.log
+
+# React/Node.js
+node_modules/
+build/
+.env
+
+# Python
+*.env
+*.venv
+*.egg-info/
